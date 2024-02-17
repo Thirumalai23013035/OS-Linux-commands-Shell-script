@@ -42,11 +42,24 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
+localhost:~# cat file1
+ 
+    chanchal singhvi
+    c.k.shukla
+    s.n.dasgupta
+    sumit chakroborty
+    ^d
 
 
 cat < file2
 ## OUTPUT
+localhost:~# cat file2
+    anil aggarwal
+    barun sengupta
+    c.k.shukla
+    lalit chowdry
+    s.n.dasgupta
+    ^d
 
 
 # Comparing Files
